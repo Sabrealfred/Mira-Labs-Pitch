@@ -86,11 +86,11 @@ export const Slide04LeadershipTeam = {
             </div>
             <div>
               <div className="font-semibold text-slate-900 mb-1">Career Highlights</div>
-              <div>Amazon (Sr PM, 2016-2020); One Medical (Director of Product Design, 2014-2015 — led $65M raise to secure profitability pre-IPO); Medistem Laboratories (Product Advisor, acquired by Intrexon for $26M in 2013); Kresus Labs (Head of Product, 2023)</div>
+              <div>Launched L1 Protocol (Head of Product - $415M FDV); Kresus Labs (Head of Product - launched MPC wallet partnering with Worldcoin, Sotheby's, and Chrisitie's); One Medical Group (Director of Product - led $65M raise to establish clear path to profitability pre-IPO); Amazon (Senior Manager UXE - Launched AI foundation models, collaborated with US DoD); Medistem Laboratories (Product Advisor, acquired by Intrexon for $26M in 2013).</div>
             </div>
             <div>
               <div className="font-semibold text-slate-900 mb-1">Key Achievements</div>
-              <div>Co-founded Amazon Blockchain Group; led $65M One Medical financing to cement profitability pre-IPO; guided Medistem through $26M Intrexon exit; drove 400% onboarding improvement at Kresus; launched Autonomys mainnet with a $30M grant program</div>
+              <div>Co-founded Amazon Blockchain Group; Adjunct Advisor, SVA - Red Dot Design Award Winner; One Medical - awarded "Most Innovative Healthtech Company" globally ahead of Apple; Guided Medistem through $26M Intrexon exit; 90% of American's use a product daily that he designed.</div>
             </div>
           </div>
         </div>
